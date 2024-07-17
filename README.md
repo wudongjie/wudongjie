@@ -18,8 +18,6 @@ I am a full-stack developer and AI solution architect.
 
 - :telescope: I’m working as a tech lead and leading a team to develop native AI applications
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongjie-wu-73a442148/)
-
 ### :package: Project:
 
 - Empathetic AI: [![Website](https://img.shields.io/website?url=https%3A%2F%2Fempathetic-ai.com&up_message=empathetic-ai&labelColor=blue&color=purple)](https://empathetic-ai.com)
@@ -52,7 +50,7 @@ I am a full-stack developer and AI solution architect.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wudongjie)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wudongjie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wudongjie/wudongjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
