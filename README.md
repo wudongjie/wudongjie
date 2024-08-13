@@ -20,8 +20,6 @@ I am a full-stack developer and AI solution architect.
 
 ### :package: Project:
 
-- Empathetic AI: [![Website](https://img.shields.io/website?url=https%3A%2F%2Fempathetic-ai.com&up_message=empathetic-ai&labelColor=blue&color=purple)](https://empathetic-ai.com)
-
 - em: An R package for the generic functions of EM algorithm [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fem%2Findex.html&up_message=em&labelColor=blue&color=purple)](https://cran.r-project.org/web/packages/em/index.html)
 
 - MuChaAPI: A RestFul API for content creating using MidJourney and ChatGPT [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwudongjie%2FMuChaAPI&up_message=MuCha&labelColor=blue&color=purple)](https://github.com/wudongjie/MuChaAPI)
