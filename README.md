@@ -37,6 +37,8 @@ Feel free to reach out if you're interested in AI consulting through PlusAI Solu
 
 ### :package: Project:
 
+-   PlusAI Diagram Generator: A tool for generating diagrams using AI [![Website](https://img.shields.io/website?url=https%3A%2F%2Fplusai.com.au&up_message=PlusAI&labelColor=blue&color=purple)](https://www.producthunt.com/posts/plusai-diagram-generator)
+
 -   PlusAI: A platform for AI consulting and development services [![Website](https://img.shields.io/website?url=https%3A%2F%2Fplusai.com.au&up_message=PlusAI&labelColor=blue&color=purple)](https://plusai.com.au)
 
 -   em: An R package for the generic functions of EM algorithm [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fem%2Findex.html&up_message=em&labelColor=blue&color=purple)](https://cran.r-project.org/web/packages/em/index.html)
