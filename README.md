@@ -14,32 +14,58 @@
 
 ### :technologist: About Me :
 
-I am a full-stack developer and AI solution architect.
+I'm a passionate indie developer and AI consultant, deeply immersed in the world of technology. As an AI Solution Architect and consultant, I help my clients design and implement cutting-edge AI solutions while also developing independent AI applications.
 
-- :telescope: I’m working as a tech lead and leading a team to develop native AI applications
+My journey in tech has been shaped by diverse experiences and continuous learning. The problem-solving skills I've developed inspire my approach to development challenges, while my technical expertise helps me optimize and streamline my work processes. It's a beautiful balance of nurturing my professional growth and my coding projects.
+
+### What I Do
+
+-   💻 Development: Independent developer focusing on AI applications
+-   🤖 AI Consulting: Helping businesses leverage artificial intelligence effectively
+-   🌱 Continuous Learning: Staying current with emerging technologies and industry trends
+-   🚀 Innovation: Exploring new ways to solve complex problems
+
+### Current Focus
+
+I'm particularly interested in developing AI solutions that make life easier for businesses and professionals juggling multiple responsibilities. Through my business, [PlusAI Solution](https://plusai.com.au), I help organizations leverage artificial intelligence to create more efficient and intelligent systems.
+
+My recent projects combine practical utility with cutting-edge AI technology, always with an eye toward creating more efficient and intelligent systems. At PlusAI Solution, we specialize in delivering customized AI consulting and development services that transform businesses.
+
+The adventure of pursuing my passion for technology has taught me invaluable lessons about time management, efficiency, and the importance of building sustainable, meaningful solutions.
+
+Feel free to reach out if you're interested in AI consulting through PlusAI Solution or just want to chat about technology!
 
 ### :package: Project:
 
-- em: An R package for the generic functions of EM algorithm [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fem%2Findex.html&up_message=em&labelColor=blue&color=purple)](https://cran.r-project.org/web/packages/em/index.html)
+-   PlusAI: A platform for AI consulting and development services [![Website](https://img.shields.io/website?url=https%3A%2F%2Fplusai.com.au&up_message=PlusAI&labelColor=blue&color=purple)](https://plusai.com.au)
 
-- MuChaAPI: A RestFul API for content creating using MidJourney and ChatGPT [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwudongjie%2FMuChaAPI&up_message=MuCha&labelColor=blue&color=purple)](https://github.com/wudongjie/MuChaAPI)
+-   em: An R package for the generic functions of EM algorithm [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fem%2Findex.html&up_message=em&labelColor=blue&color=purple)](https://cran.r-project.org/web/packages/em/index.html)
+
+-   MuChaAPI: A RestFul API for content creating using MidJourney and ChatGPT [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwudongjie%2FMuChaAPI&up_message=MuCha&labelColor=blue&color=purple)](https://github.com/wudongjie/MuChaAPI)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My tech stack:
+
+Check my tech stack from my blog post [My goto tech stack when developing AI applications](https://devplusai.blog/blog/my-goto-tech-stack-when-developing-ai-applications)
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <h3> Frontend: </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="CSSTailwind" alt="CSSTailwind" width="40" height="40"/>&nbsp;
+  <h3> Backend + Database </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-plain-wordmark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <h3> AI </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openai/openai-original-wordmark.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anthropic/anthropic-original-wordmark.svg" title="Anthropic" alt="Anthropic" width="40" height="40"/>&nbsp;
+  <h3> CI / CD </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 ---
