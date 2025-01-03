@@ -37,7 +37,7 @@ Feel free to reach out if you're interested in AI consulting through PlusAI Solu
 
 ### :package: Project:
 
--   PlusAI Diagram Generator: A tool for generating diagrams using AI [![Product Hunt](https://img.shields.io/website?url=https%3A%2F%2Fwww.producthunt.com%2Fposts%2Fplusai-diagram-generator&up_message=Diagram%20Generator&labelColor=blue&color=purple)](https://www.producthunt.com/posts/plusai-diagram-generator)
+-   Free AI Diagram Generator: A tool for generating diagrams using AI [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.producthunt.com%2Fposts%2Fplusai-diagram-generator&up_message=Diagram%20Generator&labelColor=blue&color=purple)](https://diagram-generator.com)
 
 -   PlusAI: A platform for AI consulting and development services [![Website](https://img.shields.io/website?url=https%3A%2F%2Fplusai.com.au&up_message=PlusAI&labelColor=blue&color=purple)](https://plusai.com.au)
 
