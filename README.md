@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/dongjie-wu-73a442148/"> 
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://linktr.ee/wudongjie">
+        <img src="https://img.shields.io/badge/-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+    </a>
 </div>
 
 <div>
